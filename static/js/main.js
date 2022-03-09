@@ -40,7 +40,9 @@ var campaigns = [
     "Figuring out why <b><i>the fuck</b></i> clubs are inaccessible",
     "Prevention of Shops with \"Rebel\" in their name",
     "Convinced Streaming on Twitch Will Bring About Real Change",
-    "19-hours of Twitter Screen Time Daily"
+    "19-hours of Twitter Screen Time Daily",
+    "Finding the One Club that Doesn't Treat it's Workers like Shit",
+    "Horny Bonk"
 ];
 
 
