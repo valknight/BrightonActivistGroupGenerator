@@ -1,0 +1,97 @@
+html {
+    min-height: 100%;
+}
+
+body {
+    font-family: 'JetBrains Mono', monospace;
+    color: #efefef;
+    background-color: #1a1a1a;
+    margin: 0 0 60px;
+    text-align: center;
+    padding-top: 10px;
+    max-height: 80%;
+    line-height: 1.4;
+}
+
+h1 {
+    font-weight: 800;
+    font-size: 32px;
+}
+
+.subtitle {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-style: italic;
+    font-weight: 100;
+}
+
+.generator {
+    padding-top: 15px;
+}
+
+.campaign {
+    padding: 10px;
+    margin-top: 150px;
+    width: auto;
+    font-size: 12px;
+    text-align: center;
+}
+
+.campaign-text {
+    color: black;
+    padding: 15px;
+    font-size: 20px;
+    font-weight: 600;
+    background-color: white;
+    line-height: 2;
+}
+
+button {
+    background-color: #efefef;
+    /* Green */
+    border: none;
+    color: #1a1a1a;
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #afafaf;
+    /* Green */
+    color: #1a1a1a;
+}
+
+.thanks-el {
+    margin-top: 5px;
+}
+
+.thanks-el>a {
+    color: #efefef;
+    background-color: black;
+    padding: 2px;
+}
+
+.thanks-el>a:visited {
+    color: #efefef;
+    background-color: black;
+}
+
+.thanks {
+    position: absolute;
+    bottom: 0;
+    background-color: orange;
+    color: black;
+    left: 0;
+    bottom: 0;
+    margin-top: -50px;
+    width: 100%;
+    overflow: hidden;
+    font-weight: 100;
+    font-size: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    max-height: 20%;
+}
