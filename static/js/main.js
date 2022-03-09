@@ -38,8 +38,11 @@ var campaigns = [
     "Partners (with Pressure Washers)",
     "Partners (without Pressure Washers)",
     "Figuring out why <b><i>the fuck</b></i> clubs are inaccessible",
-    "Prevention of Shops with \"Rebel\" in their name"
+    "Prevention of Shops with \"Rebel\" in their name",
+    "Convinced Streaming on Twitch Will Bring About Real Change",
+    "19-hours of Twitter Screen Time Daily"
 ];
+
 
 var platforms = [
     "Twitter",
